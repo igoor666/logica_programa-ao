@@ -17,3 +17,4 @@ print("Olá, ",nome,"! a sua idade é ",idade)
 # o camando type() analisa o tipo da informaçâo que esta entre parenteses
 print("O tipo da variável nome é", type(nome))
 print("O tipo da variável idade é", type(idade))
+
